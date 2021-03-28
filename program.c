@@ -2,7 +2,7 @@
 
 int main() {
     printf("Hello, word!");
-    printf("\nJakub Gorecki");
+    printf("\nJakub Gorecki \nDaniel Otworowski");
 
 
     return 0;
